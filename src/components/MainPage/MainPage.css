@@ -1,0 +1,32 @@
+.Sign {
+    font-size: 64px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    margin-right: 100px;
+    
+    justify-content: center;
+ }
+ .text {
+     color: white;
+     margin-left: 10px;
+     margin-top: 50px;
+ }
+ .card {
+     margin-top: 100px;
+     margin-left: 70px;
+ }
+ .button {
+     color: white;
+     width: 100px;
+ }
+ .textfield{
+     font-size: 25px;
+     margin-bottom: 50px;
+     color: red;
+ }
+ .signin {
+     font-size: 16px;
+     margin-top: 40px;
+ }
